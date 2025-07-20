@@ -1,0 +1,45 @@
+AI Based Traffic Management System
+Of course, Jayvir—here’s your updated project overview with **accident detection and alerting** added. You can upload this directly to your GitHub Pages or website as your licensing and outreach showcase 💡
+
+---
+
+## 🧠 Vadodara Smart Traffic AI  
+### Built by Independent Developer Jayvir
+
+#### 🚦 About the Project  
+This is an advanced AI-powered traffic control and number plate recognition system built specifically for Indian urban junctions. Unlike conventional ANPR tools, this project combines:
+
+- **YOLOv8 for real-time vehicle and plate detection**
+- **CRNN OCR model** trained on Indian license plates
+- **DeepSORT tracking** to link vehicles and plates across frames
+- **Dynamic signal control logic** based on live traffic density
+- **Accident detection system** that identifies potential collisions and notifies authorities in real time
+
+#### 🎯 Goals  
+- Improve traffic flow and reduce congestion using AI decisions  
+- Automate plate recognition for enforcement and analytics  
+- Detect and report accidents for faster emergency response  
+- Integrate with municipal junctions for smart city deployment  
+
+#### ✅ Key Features  
+
+| Module                  | Functionality                                                |
+|-------------------------|-------------------------------------------------------------|
+| Vehicle Detection       | YOLOv8 model optimized for Indian traffic                   |
+| Plate Detection         | Retrained YOLO model for regional plates                    |
+| OCR Recognition         | CRNN model fine-tuned for Hindi/Gujarati                    |
+| Object Tracking         | DeepSORT to assign IDs and maintain history                 |
+| Signal Control          | Lane-based green time assignment                            |
+| Accident Detection      | Motion and collision-based triggers with real-time alerts   |
+| Future Expansion        | Emergency vehicle detection, zone awareness                 |
+
+#### 🔒 Technology Licensing  
+This system is intended for commercial deployment. Licensing steps are in progress with Ultralytics for YOLOv8 integration in a closed-source product.
+
+#### 📽️ Real-World Footage  
+Thanks to coordination with Vadodara City authorities, this system will soon be trained and validated using actual traffic junction footage collected from municipal infrastructure.
+
+#### 🌐 Contact  
+Project Lead: Jayvir  
+GitHub: jayvir21
+Email: chhasatiajayvir@gmail.com
